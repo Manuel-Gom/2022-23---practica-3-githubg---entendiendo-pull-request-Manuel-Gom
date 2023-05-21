@@ -40,3 +40,5 @@ El objetivo principal de esta práctica es aprender el funcionamiento y trabajar
 16. Actualiza el repositorio local completo una vez tu compañero acepte el pull request. ***Rol desarrollador***
     
 17. Comprueba que esta todo bien actualizado. ***Rol desarrollador***
+
+Añadir un vídeo explicativo sobre los fork.
